@@ -22,7 +22,7 @@ Graph ID's correspond to scenarios as follows:
 
 ## Construction
 
-The dataset is almost the same as the one of streamspot[sbustreamspot-data][1], except that a line of markup representing the end of the scene.
+The dataset is almost the same as the one of streamspot [sbustreamspot-data][1], except that a line of markup representing the end of the scene.
 
 
 [1]: https://github.com/sbustreamspot/sbustreamspot-data
