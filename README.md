@@ -1,11 +1,7 @@
 # WL kernel Data
 
-This repository contains the `ALL` dataset, which includes edges from all the
-600 benign and attack scenario graphs. The `YDC` and `GFC` datasets can be derived
-from `ALL` by picking graph ID's having scenarios as follows:
-
-   * `YDC`: YouTube, Download, CNN
-   * `GFC`: GMail, VGame, CNN 
+This repository contains the dataset used in our evaluation, which includes edges from all the
+600 benign and attack scenario graphs. 
 
 ## Format
 
@@ -26,4 +22,7 @@ Graph ID's correspond to scenarios as follows:
 
 ## Construction
 
-The dataset is almost the same as the one of streamspot, except that a line of markup representing the end of the scene. 
+The dataset is almost the same as the one of streamspot[sbustreamspot-data][1], except that a line of markup representing the end of the scene.
+
+
+[1]: https://github.com/sbustreamspot/sbustreamspot-data
